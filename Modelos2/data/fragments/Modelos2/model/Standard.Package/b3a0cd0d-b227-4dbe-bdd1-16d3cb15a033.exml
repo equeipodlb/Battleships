@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="java" version="4">
+  <OBJECT>
+    <ID name="java" mc="Standard.Package" uid="b3a0cd0d-b227-4dbe-bdd1-16d3cb15a033"/>
+    <PID name="modelos2" mc="Standard.Package" uid="6b898066-a0b6-4cd0-80ac-dd16fc699b06"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[java]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="io" mc="Standard.Package" uid="2e8e7bb0-d11d-48d1-a55d-34c2c409fbe5"/>
+        <COMPID name="net" mc="Standard.Package" uid="d74c60ef-d984-4904-a31d-510b9b71bf8f"/>
+        <COMPID name="util" mc="Standard.Package" uid="2698d5ee-764f-4bd4-a839-6fd264c7133e"/>
+        <COMPID name="time" mc="Standard.Package" uid="788274fd-4587-4670-91cb-01f5a401f6bb"/>
+        <COMPID name="lang" mc="Standard.Package" uid="a0c0aef4-9382-4ddb-b2d5-270ea75170d0"/>
+        <COMPID name="awt" mc="Standard.Package" uid="b983ef07-2e07-456a-9e5d-0628f5aad6ad"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Tag">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.TaggedValue" uid="744257c9-8f5c-44f5-9076-2a52edac8974"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Definition">
+              <FOREIGNID name="JavaExtern" mc="Infrastructure.TagType" uid="003800a8-0000-0197-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

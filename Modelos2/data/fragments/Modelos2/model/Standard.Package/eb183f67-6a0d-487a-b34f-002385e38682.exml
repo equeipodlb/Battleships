@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="event" version="4">
+  <OBJECT>
+    <ID name="event" mc="Standard.Package" uid="eb183f67-6a0d-487a-b34f-002385e38682"/>
+    <PID name="awt" mc="Standard.Package" uid="b983ef07-2e07-456a-9e5d-0628f5aad6ad"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[event]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="MouseEvent" mc="Standard.Class" uid="5e7f6513-08a3-4bf7-a5b9-2ea92bc9e5fc"/>
+        <COMPID name="ActionListener" mc="Standard.Interface" uid="814c540b-a016-4301-ae72-f9e5a4a67a3f"/>
+        <COMPID name="MouseListener" mc="Standard.Interface" uid="67b30687-322d-436a-b9b4-194da058c959"/>
+        <COMPID name="ActionEvent" mc="Standard.Class" uid="e558498d-2618-4c39-9ecc-bced60f4855a"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Tag">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.TaggedValue" uid="9858277b-f8e6-47cd-8524-0e53de5481cd"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Definition">
+              <FOREIGNID name="JavaExtern" mc="Infrastructure.TagType" uid="003800a8-0000-0197-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

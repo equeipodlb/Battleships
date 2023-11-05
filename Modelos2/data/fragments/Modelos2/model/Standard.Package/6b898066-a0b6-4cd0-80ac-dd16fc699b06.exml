@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="modelos2" version="4">
+  <OBJECT>
+    <ID name="modelos2" mc="Standard.Package" uid="6b898066-a0b6-4cd0-80ac-dd16fc699b06"/>
+    <PID name="Modelos2" mc="Standard.Project" uid="82264f86-562e-4ff3-a3d5-ddaa0a8bc45b"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[modelos2]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="c8bbe6cc-8192-45ed-aaaf-451ffa9ba555"/>
+        <COMPID name="Secuencia 1" mc="Standard.Interaction" uid="d88057d1-b463-4ad7-84f6-9aeb62782dd5"/>
+        <COMPID name="Interaction 25" mc="Standard.Interaction" uid="105f7b89-2da5-4b98-b808-fef72d85925b"/>
+        <COMPID name="Interaction2" mc="Standard.Interaction" uid="0b3b44db-c8bd-42fb-81d7-e8e5e2f1ed7c"/>
+        <COMPID name="Interaction3" mc="Standard.Interaction" uid="cd9779cb-0e3a-4579-a41f-7ff9673d5139"/>
+        <COMPID name="Interaction5" mc="Standard.Interaction" uid="dca1b985-e9bd-4fe3-b248-cd56c66f74cc"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="java" mc="Standard.Package" uid="b3a0cd0d-b227-4dbe-bdd1-16d3cb15a033"/>
+        <COMPID name="javax" mc="Standard.Package" uid="a25bec10-ed64-4d6f-a9d4-a8c9484554b4"/>
+        <COMPID name="exceptions" mc="Standard.Package" uid="4ce075f6-0705-4963-8add-f5728750af59"/>
+        <COMPID name="utils" mc="Standard.Package" uid="2e9c6f0f-8c67-49db-b1ea-698cecc6ea4e"/>
+        <COMPID name="model" mc="Standard.Package" uid="30bdb1d0-12e2-492f-a005-d2677e58a499"/>
+        <COMPID name="misc" mc="Standard.Package" uid="c618324b-f557-46a8-b07f-5d6926e81433"/>
+        <COMPID name="web" mc="Standard.Package" uid="a99a32d2-0afc-446b-bb70-6d1eb38205b8"/>
+        <COMPID name="main" mc="Standard.Package" uid="604db0e9-b010-4821-b5c1-1fe06c299fc6"/>
+        <COMPID name="view" mc="Standard.Package" uid="9e537fff-5470-4a12-90c8-4c0cfb936181"/>
+        <COMPID name="tests" mc="Standard.Package" uid="45ba68f3-916a-40b0-a57c-5a0f8ea03182"/>
+        <COMPID name="controller" mc="Standard.Package" uid="3f73143b-dc27-4833-835f-2f6d987d9dc9"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Class Diagram 2.GUI" mc="Standard.ClassDiagram" uid="1bce3310-0715-4143-8547-7afa4eefc1f5"/>
+        <COMPID name="Class diagram 1" mc="Standard.ClassDiagram" uid="efe5e8ca-83a7-4c19-9418-e692649f18bc"/>
+        <COMPID name="Class diagram 2" mc="Standard.ClassDiagram" uid="e8e2268f-40fb-48d9-8a31-0ed298ee2246"/>
+        <COMPID name="Class diagram 3" mc="Standard.ClassDiagram" uid="98c558ae-6532-492c-9b70-b2c250c6f9eb"/>
+        <COMPID name="Class diagram 11" mc="Standard.ClassDiagram" uid="fd15a381-8726-45ec-8a44-903c7c4ce38b"/>
+        <COMPID name="Class diagram 25" mc="Standard.ClassDiagram" uid="a52f9dc9-fe66-44b6-962f-a30ed4edad23"/>
+        <COMPID name="Class diagram 4" mc="Standard.ClassDiagram" uid="cd3109d7-d0ac-44ce-8406-9afbed87bd39"/>
+        <COMPID name="Class diagram 3-GUI" mc="Standard.ClassDiagram" uid="a110c807-9567-4e90-ab07-57f2d0136f4a"/>
+        <COMPID name="Class diagram 21" mc="Standard.ClassDiagram" uid="e7de2828-126e-43ab-8a35-fa8b85d5fd0d"/>
+        <COMPID name="Class diagram 6" mc="Standard.ClassDiagram" uid="87c6a6d0-16a5-4a9c-97f5-340c01539c31"/>
+        <COMPID name="Class diagram 12" mc="Standard.ClassDiagram" uid="ca2ec0d8-6d54-4ea8-848d-a93285ebab40"/>
+        <COMPID name="Class diagram 23" mc="Standard.ClassDiagram" uid="c2016624-635c-4d65-815e-30dfc5849d9d"/>
+        <COMPID name="Class diagram 18" mc="Standard.ClassDiagram" uid="93004e73-9534-453c-89c2-b40b55c2a413"/>
+        <COMPID name="Class diagram 24" mc="Standard.ClassDiagram" uid="3505b54c-2686-400a-b08e-7610cea9a530"/>
+        <COMPID name="Class diagram 20" mc="Standard.ClassDiagram" uid="122d5807-5661-4b6b-9799-8f26b88bccaf"/>
+        <COMPID name="Class diagram 9-Load" mc="Standard.ClassDiagram" uid="6faa097a-52fc-4700-ae2b-3f03c2be1abd"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

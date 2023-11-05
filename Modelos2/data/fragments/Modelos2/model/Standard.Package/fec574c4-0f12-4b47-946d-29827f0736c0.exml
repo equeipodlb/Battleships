@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="GUI" version="4">
+  <OBJECT>
+    <ID name="GUI" mc="Standard.Package" uid="fec574c4-0f12-4b47-946d-29827f0736c0"/>
+    <PID name="view" mc="Standard.Package" uid="9e537fff-5470-4a12-90c8-4c0cfb936181"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[GUI]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Board" mc="Standard.Class" uid="dc2f11c2-f1bd-485f-8632-2dbe15f35e1e"/>
+        <COMPID name="configDialog" mc="Standard.Class" uid="01fb95bd-4da7-4d7b-9dcd-2aa6176295a0"/>
+        <COMPID name="ConfigurationLocal" mc="Standard.Class" uid="44e99df2-542a-4c15-bc23-bba1c2faf819"/>
+        <COMPID name="ConfigurationOnline" mc="Standard.Class" uid="9b62aeb4-05d9-43a6-96a9-dddf0614dd3f"/>
+        <COMPID name="HostConfiguration" mc="Standard.Class" uid="bc6cfed5-340e-43f6-a074-054c88c7f524"/>
+        <COMPID name="HostingWindow" mc="Standard.Class" uid="735565ee-edd0-4f91-b321-48a7ca9d1063"/>
+        <COMPID name="JoinConfiguration" mc="Standard.Class" uid="26edd692-937a-4013-9262-e6e1d809d364"/>
+        <COMPID name="LocalWindow" mc="Standard.Class" uid="6aad9877-0e91-4769-9fe2-062317429303"/>
+        <COMPID name="MainWindow" mc="Standard.Class" uid="306adae8-edf8-48ec-8c88-5eeb14cfa2cf"/>
+        <COMPID name="ModeWindow" mc="Standard.Class" uid="e41b1afb-9fa7-4f7c-b9f0-11b93b0ebeaf"/>
+        <COMPID name="PlayersBar" mc="Standard.Class" uid="6de14ae7-ff95-41ac-8ba0-a50d5f2f63f0"/>
+        <COMPID name="PlayersNames" mc="Standard.Class" uid="8b8cb222-5329-4248-9307-fa95707988cf"/>
+        <COMPID name="ShipsBar" mc="Standard.Class" uid="6337df89-2929-413d-9fa7-b8347e02a655"/>
+        <COMPID name="StartScreen" mc="Standard.Class" uid="241a7e5b-830e-4fd0-b6df-e5b92176c14d"/>
+        <COMPID name="StatusBar" mc="Standard.Class" uid="7feb9e3f-b703-4176-b2ca-76e406e509f6"/>
+        <COMPID name="statusDialog" mc="Standard.Class" uid="e2012971-2a01-4803-adcd-efd364cae6ce"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

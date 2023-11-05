@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="swing" version="4">
+  <OBJECT>
+    <ID name="swing" mc="Standard.Package" uid="99bedebe-86ed-4486-abee-bff882ba7fda"/>
+    <PID name="javax" mc="Standard.Package" uid="a25bec10-ed64-4d6f-a9d4-a8c9484554b4"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[swing]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="border" mc="Standard.Package" uid="c7232561-fe22-4e84-9609-d2e4df6df7b0"/>
+        <COMPID name="JSpinner" mc="Standard.Class" uid="8cc67415-3355-425a-94d9-b378003bf52a"/>
+        <COMPID name="SpinnerNumberModel" mc="Standard.Class" uid="be6b0367-1263-44e8-b758-61ebd980740b"/>
+        <COMPID name="ImageIcon" mc="Standard.Class" uid="60275957-b529-4183-be85-14562b297200"/>
+        <COMPID name="event" mc="Standard.Package" uid="fbd53c3e-2794-4712-a115-189914d6f9c6"/>
+        <COMPID name="JOptionPane" mc="Standard.Class" uid="3a12eedc-7a8c-40a4-9fec-b244b3718774"/>
+        <COMPID name="filechooser" mc="Standard.Package" uid="776101cd-4cb3-4cf4-afec-9dff72b90f1a"/>
+        <COMPID name="JFileChooser" mc="Standard.Class" uid="823e4485-7c02-4fa7-ab94-17ae7e11c5c5"/>
+        <COMPID name="BoxLayout" mc="Standard.Class" uid="735859bc-0e38-4e83-8b06-2736d47d4f24"/>
+        <COMPID name="JButton" mc="Standard.Class" uid="6b9da96b-75f3-4136-b56e-e9bdaf5df637"/>
+        <COMPID name="JLabel" mc="Standard.Class" uid="dcdb1650-01ee-4f5c-a734-1d2d3c9b00d5"/>
+        <COMPID name="JComponent" mc="Standard.Class" uid="febf36af-c42b-4293-a91f-37ac083ce21e"/>
+        <COMPID name="JComboBox" mc="Standard.Class" uid="3c270d1a-87ea-44d4-a3a0-7653d64f9779"/>
+        <COMPID name="JTextField" mc="Standard.Class" uid="9c0cc0ed-1c94-4cfb-aeb3-2d949f38dad7"/>
+        <COMPID name="Box" mc="Standard.Class" uid="fdc23653-1f73-4a89-b66f-18f3e74174bd"/>
+        <COMPID name="JFrame" mc="Standard.Class" uid="57523cb5-b593-4af2-b0fb-121c21b51bcc"/>
+        <COMPID name="JMenuBar" mc="Standard.Class" uid="fd62262b-51b6-4d39-9075-1346b80cacd7"/>
+        <COMPID name="JDialog" mc="Standard.Class" uid="9847e10c-096c-48b3-83a6-542184491232"/>
+        <COMPID name="JPanel" mc="Standard.Class" uid="fb0e7eb7-a1d4-49b4-9a05-1414ae5e6995"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Tag">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.TaggedValue" uid="764ccb0e-617c-4818-bb96-028f69bed0c9"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Definition">
+              <FOREIGNID name="JavaExtern" mc="Infrastructure.TagType" uid="003800a8-0000-0197-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

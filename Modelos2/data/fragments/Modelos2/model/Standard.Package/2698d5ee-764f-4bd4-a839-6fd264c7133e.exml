@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="util" version="4">
+  <OBJECT>
+    <ID name="util" mc="Standard.Package" uid="2698d5ee-764f-4bd4-a839-6fd264c7133e"/>
+    <PID name="java" mc="Standard.Package" uid="b3a0cd0d-b227-4dbe-bdd1-16d3cb15a033"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[util]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Queue" mc="Standard.Interface" uid="4c5e1259-3786-4000-81a4-d74d070e0f2c"/>
+        <COMPID name="Collection" mc="Standard.Interface" uid="decee3e2-55ef-4816-bb3d-2dd62c57c784"/>
+        <COMPID name="logging" mc="Standard.Package" uid="7f0669d7-fcb4-4e65-bfa7-315867a2dfd2"/>
+        <COMPID name="Arrays" mc="Standard.Class" uid="c04be6bb-19a9-49a3-a812-e2ee6916a39c"/>
+        <COMPID name="LinkedList" mc="Standard.Class" uid="ae88d9c8-3334-4740-8c73-ae0f2b765bba"/>
+        <COMPID name="List" mc="Standard.Interface" uid="f96692e2-afc2-4b38-a64e-156bb8478da9"/>
+        <COMPID name="Stack" mc="Standard.Class" uid="21ba4be7-a8f6-454c-80e2-3bfe2e4e1054"/>
+        <COMPID name="Random" mc="Standard.Class" uid="35848d69-145b-4cf2-b898-7263476406b4"/>
+        <COMPID name="Collections" mc="Standard.Class" uid="90b45019-02dc-45d7-b776-424a2fd26b08"/>
+        <COMPID name="Scanner" mc="Standard.Class" uid="7eae0449-eaeb-4a4d-afb0-94fbafa571d2"/>
+        <COMPID name="ArrayList" mc="Standard.Class" uid="8cfb8fb6-3c5a-4bd3-926f-b63b832558e2"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Tag">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.TaggedValue" uid="00a5fb8c-e0df-435a-ba4b-95972b3f0dfc"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Definition">
+              <FOREIGNID name="JavaExtern" mc="Infrastructure.TagType" uid="003800a8-0000-0197-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

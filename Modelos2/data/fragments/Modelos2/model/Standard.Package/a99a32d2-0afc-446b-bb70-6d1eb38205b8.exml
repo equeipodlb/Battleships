@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="web" version="4">
+  <OBJECT>
+    <ID name="web" mc="Standard.Package" uid="a99a32d2-0afc-446b-bb70-6d1eb38205b8"/>
+    <PID name="modelos2" mc="Standard.Package" uid="6b898066-a0b6-4cd0-80ac-dd16fc699b06"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[web]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Cliente" mc="Standard.Class" uid="0f99fe6e-4551-49b6-80ea-0eda033f1bc9"/>
+        <COMPID name="Conexion" mc="Standard.Class" uid="4e671bdd-158b-4883-8de8-1ce8b3aa67d3"/>
+        <COMPID name="MainCliente" mc="Standard.Class" uid="7fcdecdb-cd7b-465b-8639-5cd55c7f900e"/>
+        <COMPID name="MainServidor" mc="Standard.Class" uid="c344ec57-d472-4e36-9f36-0ac03b93525c"/>
+        <COMPID name="Servidor" mc="Standard.Class" uid="4bac820c-b54d-4de1-995f-ca2e8828cebd"/>
+        <COMPID name="WebObserver" mc="Standard.Interface" uid="56043474-737c-477c-86be-391316f26a99"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

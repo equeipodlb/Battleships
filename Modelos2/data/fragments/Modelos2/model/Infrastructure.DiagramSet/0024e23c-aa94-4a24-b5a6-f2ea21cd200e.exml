@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Modelos2" version="4">
+  <OBJECT>
+    <ID name="Modelos2" mc="Infrastructure.DiagramSet" uid="0024e23c-aa94-4a24-b5a6-f2ea21cd200e"/>
+    <PID name="Modelos2" mc="Standard.Project" uid="82264f86-562e-4ff3-a3d5-ddaa0a8bc45b"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Modelos2]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

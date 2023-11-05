@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Class diagram 4" version="4">
+  <OBJECT>
+    <ID name="Class diagram 4" mc="Standard.ClassDiagram" uid="cd3109d7-d0ac-44ce-8406-9afbed87bd39"/>
+    <PID name="modelos2" mc="Standard.Package" uid="6b898066-a0b6-4cd0-80ac-dd16fc699b06"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztU99PIjEQ/leafaesB1FJEKO7hhhXMeBd4pOZ3Rm5an+Qtij739tlwRM8CGeMvtxT25l+M9/MfNM9ninJnsg6YfRRtMfjiB33uoP8gQrPBAZTxHw5oaPI2DFXBkkKw6dKcufBi0cUMLagOKHwxnKSpEh7V3uLpbevRvN3Wr8jpuDB2LvXvHHU615bMyHrS6ZBhXQSSjP1KXgIvl8gp7TgoadSRs1et7kEvIOOfCkpWqnix9+qWLJz1X/HC2OJ19gd+CXgCkDCZbKzmR/S/Y5ZrkKIBZLRzKf5eeA4v1aXyxrJWny2VmizLmlb8ZYkeMLAZa1vl5WJPVWWqkWgESzyRIJzi7GwAlt7cQcPGhhD0Wi3C2octuP9Rgfuc8LDgxxbne2tD9H8hTbPOoOc5BqDkbdCj4OxObdurcJIOteJURPjhA8z+Hio5LeQaKmKkAlX9W5xbERkQj+63b+fjlMLz4FOBiXZVd21tunudVmwxjsuqwhhW1YCfs2y/Bvqe1UmcIMc0j7PTm7PhnenJ8lFfzj4eZV+jkJ2WLy3M/ujnjdaaP/Xwrdo4WZw/dki2Oh6AQchjRk=]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="Name"><![CDATA[Class diagram 4]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="e33be457-c58e-4903-8816-3af3fa8ee4ca"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

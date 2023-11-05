@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="commands" version="4">
+  <OBJECT>
+    <ID name="commands" mc="Standard.Package" uid="def0ecd5-80ab-440e-8e53-20096ec65cc3"/>
+    <PID name="controller" mc="Standard.Package" uid="3f73143b-dc27-4833-835f-2f6d987d9dc9"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[commands]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="AddCommand" mc="Standard.Class" uid="622970e9-b1ac-4957-aba5-9ab1c90356d4"/>
+        <COMPID name="AttackCommand" mc="Standard.Class" uid="ce972520-6a92-4069-91ee-03ae8304367f"/>
+        <COMPID name="Command" mc="Standard.Class" uid="982d7428-393b-486f-a77c-e7b6251354b0"/>
+        <COMPID name="CommandGenerator" mc="Standard.Class" uid="215961b1-4ae2-4a5e-b532-be1d39177362"/>
+        <COMPID name="HelpCommand" mc="Standard.Class" uid="407f8133-6f59-4b69-a2df-31ba734a205f"/>
+        <COMPID name="LoadCommand" mc="Standard.Class" uid="42733a4d-42e6-4e41-b533-bcf442607aeb"/>
+        <COMPID name="SaveCommand" mc="Standard.Class" uid="1290f239-bae5-4789-8dfd-409380f46b85"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

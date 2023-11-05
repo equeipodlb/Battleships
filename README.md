@@ -4,6 +4,9 @@
 Este proyecto es la implementación realizada en Java del tradicional juego Hundir la Flota.
 El juego se ha desarrollado en el contexto de la asignatura Ingeniería de Software II, impartida en el segundo curso del Doble Grado de Ingeniería Informática - Matemáticas de la Universidad Complutense de Madrid.
 
+This project is a Java implementation of the classic game Battleships.
+The game was developed for the Software Engineering II course (UCM). The main objective of the course was to get acquainted with Agile methodologies such as Scrum while developing a software project in a group of 6 people.
+
 ## Tecnologías
 El proyecto ha sido desarrollado con las siguientes tecnologías:
 * Java versión 1.8.
